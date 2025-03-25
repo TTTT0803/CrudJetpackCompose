@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "870811910940",
+    "firebase_url": "https://midtest-9223d-default-rtdb.firebaseio.com",
+    "project_id": "midtest-9223d",
+    "storage_bucket": "midtest-9223d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870811910940:android:fff767fa1b61bcc836b0d9",
+        "android_client_info": {
+          "package_name": "com.example.CrudJetpackCompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNhA6dxtMmSsIwTE_SaFn9MdQG4hHQH1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
